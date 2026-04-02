@@ -5,6 +5,7 @@
 # Nama: Putri Melati Ramadhaniati
 # NIM: 312410194
 # Kelas: I241B
+# praktikum2
 ## PERTEMUAN 3
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7b7fa31-e6e4-4077-9c50-0216a79f6702" />
